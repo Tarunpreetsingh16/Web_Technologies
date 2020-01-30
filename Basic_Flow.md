@@ -3,7 +3,7 @@
 ####Adding images below - 
 
 #####Image1
-![image 1](https://dev.azure.com/Ajullia9132/_git/eCommercePHP?path=%2Fimages%2Fimage1.jpg)
+![image 1](https://github.com/Tarunpreetsingh16/Web_Technologies/blob/master/images/image1.jpg)
 
 #####Image2
 ![image 2](https://dev.azure.com/Ajullia9132/_git/eCommercePHP?path=%2Fimages%2Fimage2.jpg)
